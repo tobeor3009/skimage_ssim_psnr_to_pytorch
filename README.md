@@ -3,7 +3,7 @@
 
 # 3D CT Resample
 
-이 레포에서는 skimage와 값이 동일하게 나오는 ssim, psnr을 구현하였으며,
+이 레포에서는 skimage와 값이 동일하게 나오는 pytorch ssim, psnr을 구현하였으며,
 이를 활용하여 ssim, psnr 을 loss로 사용하실 수 있습니다.
 
 ### Same SSIM
